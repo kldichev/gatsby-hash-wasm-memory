@@ -5,12 +5,11 @@
   "author": "kdichev <konstantin.dichev@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "process-top gatsby build"
+    "build": "gatsby build"
   },
   "dependencies": {
     "gatsby": "^5.12.5",
     "gatsby-source-filesystem": "^5.12.0",
-    "process-top": "^1.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
