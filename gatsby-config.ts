@@ -17,6 +17,9 @@ const config: GatsbyConfig = {
     //     path: `${__dirname}/src/images`,
     //   },
     // },
+    {
+      resolve: `gatsby-transformer-remark`,
+    },
   ],
 };
 
