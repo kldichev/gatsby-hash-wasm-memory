@@ -5,7 +5,7 @@
   "author": "kdichev <konstantin.dichev@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "process-top ./node_modules/.bin/gatsby build"
+    "build": "process-top gatsby build"
   },
   "dependencies": {
     "gatsby": "^5.12.5",
