@@ -7,7 +7,7 @@ const config: GatsbyConfig = {
       options: {
         name: `markdown-articles`,
         path: `${__dirname}/src/articles`,
-        fastHash: true
+        fastHash: false
       },
     },
     // {
